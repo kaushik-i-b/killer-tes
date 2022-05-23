@@ -116,12 +116,6 @@ For more details about developing applications that use Watson Developer Cloud s
 
   This sample code is licensed under Apache 2.0.
 
-## Contributing
-
-  See [CONTRIBUTING](CONTRIBUTING.md).
-
-## Open Source @ IBM
-  Find more open source projects on the [IBM Github Page](http://ibm.github.io/)
 
 ## Privacy Notice
 
